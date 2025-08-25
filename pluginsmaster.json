@@ -7,7 +7,7 @@
       "Description": "Simple Overlay which will show the current HP of the target",
       "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
       "Changelog": "-0.0.1\n First commit",
-      "AssemblyVersion": "0.1.0",
+      "AssemblyVersion": "0.0.1",
       "DalamudApiLevel": 13,
       "DownloadLinkInstall": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
       "DownloadLinkUpdate": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
