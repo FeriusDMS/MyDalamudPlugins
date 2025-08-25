@@ -1,0 +1,20 @@
+{
+  "Author": "FeriusDMS",
+  "Name": "HPTarget",
+  "InternalName": "HPTarget",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Show the current HP of the target",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Show the HP target (Ally/Foe)",
+  "Changelog": "-0.0.1\n    First try",
+  "AcceptsFeedback": true
+}

@@ -9,9 +9,8 @@
       "Changelog": "-0.0.1\n First commit",
       "AssemblyVersion": "0.0.1",
       "DalamudApiLevel": 13,
-      "DownloadLinkInstall": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
-      "DownloadLinkUpdate": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
-      "DownloadLinkTesting": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip"
+      "DownloadLinkInstall": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip"
     }
   ]
 }
