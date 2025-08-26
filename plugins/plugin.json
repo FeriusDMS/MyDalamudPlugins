@@ -5,8 +5,8 @@
   "Description": "Overlay simple qui montre HP et % de la cible actuelle.",
   "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
   "Changelog": "Version initiale",
-  "AssemblyVersion": "0.0.1",
-  "DalamudApiLevel": 12,
+  "AssemblyVersion": "0.0.2",
+  "DalamudApiLevel": 13,
   "DownloadLinkInstall": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
   "DownloadLinkUpdate": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip",
   "DownloadLinkTesting": "https://github.com/FeriusDMS/HPTarget/releases/latest/download/HPTarget.zip"
