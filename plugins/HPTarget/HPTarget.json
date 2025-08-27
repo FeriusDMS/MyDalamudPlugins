@@ -2,7 +2,7 @@
   "Author": "FeriusDMS",
   "Name": "HPTarget",
   "InternalName": "HPTarget",
-  "AssemblyVersion": "0.0.2.0",
+  "AssemblyVersion": "0.1.0",
   "Description": "Simple overlay who show the HP of the current target",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/FeriusDMS/HPTarget",

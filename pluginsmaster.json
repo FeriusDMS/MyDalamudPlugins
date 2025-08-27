@@ -7,8 +7,8 @@
     "InternalName": "HPTarget",
     "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
     "ApplicableVersion": "any",
-    "Changelog": "-0.0.2\n Switch to Dalamud",
-    "AssemblyVersion": "0.0.2",
+    "Changelog": "-0.1.0\n Fonctional version",
+    "AssemblyVersion": "0.1.0",
     "DalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip",
     "DownloadLinkUpdate": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip"
