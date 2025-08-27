@@ -2,7 +2,7 @@
   "Author": "FeriusDMS",
   "Name": "HPTarget",
   "InternalName": "HPTarget",
-  "AssemblyVersion": "0.1.0",
+  "AssemblyVersion": "0.1.0.0",
   "Description": "Simple overlay who show the HP of the current target",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
@@ -15,6 +15,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Show the HP of the target (Ally/Foe).",
-  "Changelog": "First version",
+  "Changelog": "-0.1.0\n  Fonctional version",
   "AcceptsFeedback": true
 }
