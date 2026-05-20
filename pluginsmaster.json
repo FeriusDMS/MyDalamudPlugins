@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/FeriusDMS/HPTarget",
     "ApplicableVersion": "any",
     "Changelog": "-0.1.0\n Fonctional version",
-    "AssemblyVersion": "0.1.0",
+    "AssemblyVersion": "0.1.0.0",
     "DalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip",
     "DownloadLinkUpdate": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/HPTarget/latest.zip"
@@ -22,7 +22,7 @@
     "RepoUrl": "https://github.com/FeriusDMS/MonstersMap",
     "ApplicableVersion": "any",
     "Changelog": "-0.1.0\n Initial release\n Search monsters by name\n Place flags on map\n Minimap integration",
-    "AssemblyVersion": "0.1.0",
+    "AssemblyVersion": "0.1.0.0",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip",
     "DownloadLinkUpdate": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip"
