@@ -1,12 +1,22 @@
 {
   "Author": "Andrea",
   "Name": "MonstersMap",
-  "Punchline": "Search and locate monsters on the map with ease.",
+  "InternalName": "MonstersMap",
+  "AssemblyVersion": "0.1.0.0",
   "Description": "Find any monster in Eorzea! Enter a monster name and get instantly flagged on the map with a minimap icon showing the location. Perfect for hunts, gathering, or exploration.",
+  "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Andrea/MonstersMap",
-  "Changelog": "-0.1.0\n  Initial release\n  Search monsters by name\n  Place flags on map\n  Minimap integration",
-  "AssemblyVersion": "0.1.0",
+  "Tags": [
+    "Map",
+    "Utility",
+    "Hunt"
+  ],
   "DalamudApiLevel": 15,
-  "DownloadLinkInstall": "https://github.com/Andrea/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Andrea/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip"
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Search and locate monsters on the map with ease.",
+  "Changelog": "-0.1.0\n  Initial release\n  Search monsters by name\n  Place flags on map\n  Minimap integration",
+  "AcceptsFeedback": true
 }
