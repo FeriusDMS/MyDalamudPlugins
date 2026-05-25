@@ -21,8 +21,8 @@
     "InternalName": "MonstersMap",
     "RepoUrl": "https://github.com/FeriusDMS/MonstersMap",
     "ApplicableVersion": "any",
-    "Changelog": "-0.1.1\n Monster search now uses game data to find monsters across zones\n Search results now include monsters even when they are not currently spawned nearby\n Flagging now stores the monster's actual territory\n Improved handling for cross-zone lookups",
-    "AssemblyVersion": "0.1.1.0",
+    "Changelog": "-0.1.2\n Fix issue where the mod wasn't able to find any monsters",
+    "AssemblyVersion": "0.1.2.0",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip",
     "DownloadLinkUpdate": "https://github.com/FeriusDMS/MyDalamudPlugins/raw/main/plugins/MonstersMap/latest.zip"
